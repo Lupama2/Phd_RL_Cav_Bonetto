@@ -1,0 +1,11 @@
+#Obj files
+*.obj
+#Results of build
+*.exe
+*.tds
+
+
+#Results of the program
+*.dat
+
+*.err
