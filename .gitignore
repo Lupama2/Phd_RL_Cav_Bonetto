@@ -2,12 +2,8 @@
 *.obj
 #Results of build
 *.exe
-*.res
 *.tds
-*.bfp
+
 
 #Results of the program
 *.dat
-
-#Delete folder
-delete/
