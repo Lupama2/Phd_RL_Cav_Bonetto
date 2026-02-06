@@ -7,7 +7,7 @@
 #pragma argsused
 
 
-//#include <vcl.h>
+#include <vcl.h>
 #include<math.h>
 #include <iostream.h>
 #include <conio.h>
@@ -266,7 +266,7 @@ void main(){
    }
 
    //matriz que define el sistema de ecuaciones para los coeficientes que
-   //acompañan a los polinomios de Chebyshev
+   //acompaï¿½an a los polinomios de Chebyshev
 
    for(j=0;j<=NCh;j++){
       for(i=0;i<=NCh;i++)
