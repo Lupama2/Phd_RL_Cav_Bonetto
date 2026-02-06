@@ -7,3 +7,5 @@
 
 #Results of the program
 *.dat
+
+*.err
